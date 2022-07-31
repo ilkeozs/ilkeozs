@@ -7,3 +7,15 @@
 - 🤔 I’m looking for help with Java back-end developer
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀, play guitar 🎸 and cycling 🚴‍
 
+### 📩 Connect with me:
+
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+[instagram]: https://www.instagram.com/ilkeozs/?hl=tr
+[gmail]: mailto:ilkeozsekerli@gmail.com
+<br />
