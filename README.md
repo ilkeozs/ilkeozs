@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif" width="498" height="298" />
 
 ## I'm a Student 👨‍🎓, Java Developer 🚀 and Musician 🎸!
 - 🔭 I’m currently working on a large and special application.
@@ -7,4 +7,3 @@
 - 🤔 I’m looking for help with Java back-end developer
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀, play guitar 🎸 and cycling 🚴‍
 
-♀️
