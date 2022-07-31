@@ -10,12 +10,11 @@
 ### 📩 Connect with me:
 
 [<img align="left" height="24" width="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />][gmail]
 
 
 <br />
 
 
 [instagram]: https://www.instagram.com/ilkeozs/?hl=tr
-[gmail]: mailto:ilkeozsekerli@gmail.com
 <br />
+
