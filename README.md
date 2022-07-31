@@ -9,13 +9,13 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" height="24" width="24" src="[https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg](https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg)" />][instagram]
+[<img align="left" height="24" width="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
 <br />
 
 
-[instagram]: https://www.instagram.com/ilkeozs/?hl=tr
-[gmail]: mailto:ilkeozsekerli@gmail.com
+[instagram]: https://www.instagram.com/ibrahim_talha_demir
+[gmail]: mailto:demiribrahimtalha@gmail.com
 <br />
