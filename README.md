@@ -21,7 +21,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github]
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" />][intellij]
 [<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][java]
-[img align=left alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicsvisual-studio-codevisual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 
 <br />
@@ -29,7 +28,6 @@
 [github]: https://github.com/ilkeozs/
 [intellij]: https://www.jetbrains.com/idea/
 [java]: https://www.java.com/tr/
-[vscode] https://code.visualstudio.com/
 [python]: https://www.python.org/
 
 <br />
