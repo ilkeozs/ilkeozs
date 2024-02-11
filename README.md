@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="500" height="250" />
 
 ## I'm a Student 👨‍🎓, Java Developer 🚀 and Musician 🎸
 - 🔭 I’m currently working on a large and special application.
@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Java back-end developer
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀, play guitar 🎸 and cycling 🚴‍
 
-### 📩 Connect with me:
+### 📩 Contact Me:
 
 [<img align="left" height="24" width="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
 
