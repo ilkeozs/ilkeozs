@@ -18,9 +18,9 @@
 [<img align="left" alt="Visual Studio" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/visual-studio-2013-logo.png" />][vs]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" />][intellij]
-[<img align="left" alt="NetBeans IDE" width="26px" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" />][netbeans]
-[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736" />][c#]
-[<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][java]
+[<img align="left" alt="NetBeans IDE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" />][netbeans]
+[<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
+[<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/450px-Java_Logo.svg.png?20111229210123" />][java]
 
 <br />
 
