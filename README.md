@@ -3,12 +3,10 @@
 ### 📩 Contact Me:
 
 [<img align="left" height="24" width="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://brandslogos.com/wp-content/uploads/images/large/discord-logo-vector.svg" />][discord]
 
 <br />
 
 [instagram]: https://www.instagram.com/ilkeozs/?hl=tr
-[discord]: https://discord.com/users/633336923481571339
 
 <br />
 
