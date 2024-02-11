@@ -20,7 +20,7 @@
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" />][intellij]
 [<img align="left" alt="NetBeans IDE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" />][netbeans]
 [<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img align="left" alt="Java" width="https://banner2.cleanpng.com/20180628/stv/kisspng-java-programming-language-computer-programming-pro-language-contact-5b356e6a914e08.2685932315302283305952.jpg" />][java]
+[<img align="left" alt="Java" width="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][java]
 
 <br />
 
