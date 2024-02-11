@@ -1,4 +1,4 @@
-## .NET Framework Software Developer
+## .NET Developer
 
 ### 📩 Contact Me:
 
