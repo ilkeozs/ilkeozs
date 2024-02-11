@@ -8,7 +8,7 @@
 <br />
 
 [instagram]: https://www.instagram.com/ilkeozs/?hl=tr
-[discord]: https://discord.com/users/752864446975705208
+[discord]: https://discord.com/users/633336923481571339
 
 <br />
 
