@@ -1,37 +1,24 @@
-## Software Developer
+[![MasterHead](https://images5.alphacoders.com/423/423148.jpg)
 
-### 📩 Contact Me:
+<h1 align="center">Hi 👋, I'm İlke</h1>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
-[<img align="left" height="24" width="24" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkeozs&label=Profile%20views&color=00c800&style=flat" alt="ilkeozs" /> </p>
 
-<br />
+- 🔭 I’m currently working on **C#**
 
-[instagram]: https://www.instagram.com/ilkeozs/?hl=tr
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ilkeozs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkeozs" height="30" width="40" /></a>
+<a href="https://instagram.com/ilkeozs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilkeozs" height="30" width="40" /></a>
+<a href="https://discord.gg/ZRWgCzAc3t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZRWgCzAc3t" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-### 🔧 Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkeozs&show_icons=true&locale=en&layout=compact" alt="ilkeozs" /></p>
 
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github]
-[<img align="left" alt="Visual Studio" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/visual-studio-2013-logo.png" />][vs]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" />][intellij]
-[<img align="left" alt="NetBeans IDE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" />][netbeans]
-[<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg" />][java]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkeozs&show_icons=true&locale=en" alt="ilkeozs" /></p>
 
-<br />
-
-[github]: https://github.com/ilkeozs/
-[vs]: https://visualstudio.microsoft.com/
-[vscode]: https://code.visualstudio.com/
-[intellij]: https://www.jetbrains.com/idea/
-[netbeans]: https://netbeans.apache.org/front/main/
-[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
-[java]: https://www.java.com/tr/
-
-<br />
-<br />
-
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ilkeozs&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkeozs&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkeozs&" alt="ilkeozs" /></p>
