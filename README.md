@@ -22,7 +22,7 @@
 
 <br />
 
-[github]: github.com
+[github]: https://github.com/
 [vs]: https://visualstudio.microsoft.com/
 [vscode]: https://code.visualstudio.com/
 [intellij]: https://www.jetbrains.com/idea/
