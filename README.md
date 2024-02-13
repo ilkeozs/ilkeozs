@@ -1,4 +1,4 @@
-[![MasterHead](https://images5.alphacoders.com/423/423148.jpg)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PKc-p8G7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9gogawd2b5601xg2cu88.gif)
 
 <h1 align="center">Hi 👋, I'm İlke</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
