@@ -18,8 +18,6 @@
 [<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 
-<br />
-
 [linkedin]: http://www.linkedin.com/in/ilkeozs
 [instagram]: https://www.instagram.com/ilkeozs/?hl=tr
 
@@ -34,8 +32,6 @@
 [<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
 
-<br />
-
 [github]: https://github.com/
 [vs]: https://visualstudio.microsoft.com/
 [vscode]: https://code.visualstudio.com/
@@ -44,6 +40,7 @@
 [c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [java]: https://www.java.com/tr/
 
+<br />
 <br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkeozs&show_icons=true&locale=en&layout=compact" alt="ilkeozs" /></p>
