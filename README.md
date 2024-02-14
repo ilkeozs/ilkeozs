@@ -22,7 +22,7 @@
 <br />
 
 [<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector.svg" />][java]
+[<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/43101/java.svg" />][java]
 
 <br />
 
