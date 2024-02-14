@@ -19,8 +19,28 @@
 <a href="https://instagram.com/ilkeozs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilkeozs" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+### Languages and Tools:
+[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/favicons/favicon-dark.svg" />][github]
+[<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" />][vs]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
+[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" />][intellij]
+[<img align="left" alt="NetBeans IDE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" />][netbeans]
+
+<br />
+<br />
+
+[<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
+
+<br />
+
+[github]: https://github.com/
+[vs]: https://visualstudio.microsoft.com/
+[vscode]: https://code.visualstudio.com/
+[intellij]: https://www.jetbrains.com/idea/
+[netbeans]: https://netbeans.apache.org/front/main/
+[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[java]: https://www.java.com/tr/
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkeozs&show_icons=true&locale=en&layout=compact" alt="ilkeozs" /></p>
 
