@@ -12,7 +12,7 @@
 
 ### 🔧 Languages and Tools:
 
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/favicons/favicon-dark.svg" />][github]
 [<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" />][vs]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" />][intellij]
