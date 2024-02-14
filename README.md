@@ -1,41 +1,27 @@
-## Software Developer
+<h1 align="center">Hi 👋, I'm İlke</h1>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
-### 📩 Contact Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkeozs&label=Profile%20views&color=0e75b6&style=flat" alt="ilkeozs" /> </p>
 
-[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkeozs" alt="ilkeozs" /></a> </p>
 
-<br />
+- 🌱 I’m currently learning **.Net Core**
 
-[instagram]: https://www.instagram.com/ilkeozs/?hl=tr
+- 🤝 I’m looking for help with **.Net Core**
 
-<br />
+- 💬 Ask me about **.Net Core , C#**
 
-### 🔧 Languages and Tools:
+- 📫 How to reach me **ilkeozsekerli@gmail.com**
 
-[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/favicons/favicon-dark.svg" />][github]
-[<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" />][vs]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" />][intellij]
-[<img align="left" alt="NetBeans IDE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" />][netbeans]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ilkeozs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkeozs" height="30" width="40" /></a>
+<a href="https://instagram.com/ilkeozs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilkeozs" height="30" width="40" /></a>
+</p>
 
-<br />
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkeozs&show_icons=true&locale=en&layout=compact" alt="ilkeozs" /></p>
 
-<br />
-
-[github]: https://github.com/
-[vs]: https://visualstudio.microsoft.com/
-[vscode]: https://code.visualstudio.com/
-[intellij]: https://www.jetbrains.com/idea/
-[netbeans]: https://netbeans.apache.org/front/main/
-[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
-[java]: https://www.java.com/tr/
-
-<br />
-<br />
-
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ilkeozs&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkeozs&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkeozs&" alt="ilkeozs" /></p>
