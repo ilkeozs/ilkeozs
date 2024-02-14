@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ilkeozsekerli@gmail.com**
 
-### 📩 Contact Me:
+### Connect with me:
 
 [<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
