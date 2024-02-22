@@ -40,7 +40,7 @@
 [netbeans]: https://netbeans.apache.org/front/main/
 [c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [.net]: https://dotnet.microsoft.com/
-[java]: https://www.java.com/tr/
+[java]: https://www.java.com/
 
 <br />
 <br />
