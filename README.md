@@ -18,8 +18,8 @@
 [<img align="left" height="35" width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
 [<img align="left" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"/>][instagram]
 
-[linkedin]: http://www.linkedin.com/in/ilkeozs
-[instagram]: https://www.instagram.com/ilkeozs/?hl=tr
+[linkedin]: http://www.linkedin.com/in/ilkeozs/
+[instagram]: https://www.instagram.com/ilkeozs/
 
 <br />
 
