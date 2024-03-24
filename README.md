@@ -26,10 +26,12 @@
 ### Languages and Tools:
 [<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />][git]
 [<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/favicons/favicon-dark.svg" />][github]
+
 [<img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" />][vs]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
 [<img align="left" alt="IntelliJ IDEA" width="35px" src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" />][intellij]
 [<img align="left" alt="NetBeans IDE" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" />][netbeans]
+
 [<img align="left" alt="C#" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
 [<img align="left" alt=".NET" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />][.net]
 [<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
