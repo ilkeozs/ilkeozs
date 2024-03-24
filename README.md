@@ -24,7 +24,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" />][git]
+[<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />][git]
 [<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/favicons/favicon-dark.svg" />][github]
 [<img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" />][vs]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
