@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkeozs" alt="ilkeozs"/></a> </p>
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **.Net**
 
-- 🤝 I’m looking for help with **.Net Core**
+- 🤝 I’m looking for help with **.Net**
 
-- 💬 Ask me about **.Net Core , C#**
+- 💬 Ask me about **.Net, C#**
 
 - 📫 How to reach me **ilkeozsekerli@gmail.com**
 
