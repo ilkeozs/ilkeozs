@@ -30,21 +30,29 @@
 [<img align="left" alt="C#" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>][c#]
 [<img align="left" alt=".NET" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"/>][.net]
 
+[<img align="left" alt="HTML5" width="35px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>][html5]
+[<img align="left" alt="CSS3" width="35px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>][css3]
+[<img align="left" alt="JavaScript" width="35px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>][js]
+[<img align="left" alt="SQL" width="35px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>][sql]
+
 [<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"/>][git]
 [<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/favicons/favicon-dark.svg"/>][github]
 
 [<img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png"/>][vs]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://code.visualstudio.com/assets/images/code-stable.png"/>][vscode]
 
+[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[.net]: https://dotnet.microsoft.com/
+
+[html5]: https://www.w3schools.com/html/
+[css3]: https://www.w3schools.com/css/
+[js]: https://www.w3schools.com/js/DEFAULT.asp
+[sql]: https://www.w3schools.com/sql/
+
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [vs]: https://visualstudio.microsoft.com/
 [vscode]: https://code.visualstudio.com/
-[intellij]: https://www.jetbrains.com/idea/
-[netbeans]: https://netbeans.apache.org/front/main/
-[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
-[.net]: https://dotnet.microsoft.com/
-[java]: https://www.java.com/
 
 <br />
 <br />
