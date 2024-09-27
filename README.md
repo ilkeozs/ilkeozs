@@ -41,7 +41,7 @@
 [<img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png"/>][vs]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://code.visualstudio.com/assets/images/code-stable.png"/>][vscode]
 
-[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[c#]: https://www.w3schools.com/cs/index.php
 [.net]: https://dotnet.microsoft.com/
 
 [html5]: https://www.w3schools.com/html/
@@ -49,8 +49,8 @@
 [js]: https://www.w3schools.com/js/DEFAULT.asp
 [sql]: https://www.w3schools.com/sql/
 
-[git]: https://git-scm.com/
-[github]: https://github.com/
+[git]: https://www.w3schools.com/git/
+[github]: https://www.w3schools.com/whatis/whatis_github.asp
 [vs]: https://visualstudio.microsoft.com/
 [vscode]: https://code.visualstudio.com/
 
