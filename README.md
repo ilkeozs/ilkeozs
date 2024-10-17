@@ -39,7 +39,7 @@
 [<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/favicons/favicon-dark.svg"/>][github]
 <br><br>
 [<img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png"/>][vs]
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://code.visualstudio.com/assets/images/code-stable.png"/>][vscode]
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode]
 
 [c#]: https://www.w3schools.com/cs/index.php
 [.net]: https://dotnet.microsoft.com/
