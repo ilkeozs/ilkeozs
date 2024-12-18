@@ -57,16 +57,5 @@
 
 <br />
 <br />
-<br />
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkeozs&" alt="ilkeozs"/></p>
-
-<br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkeozs&show_icons=true&locale=en&layout=compact" alt="ilkeozs"/></p>
-
-<br />
-<br />
-<br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilkeozs&theme=github-compact)](https://github.com/ilkeozs/github-readme-activity-graph)
