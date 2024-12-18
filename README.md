@@ -30,7 +30,6 @@
 [<img align="left" alt="C#" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>][c#]
 [<img align="left" alt=".NET" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"/>][.net]
 [<img align="left" alt="Docker" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>][docker]
-[<img align="left" alt="SQL" width="35px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>][sql]
 [<img align="left" alt="PostgreSQL" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>][postgresql]
 [<img align="left" alt="Microsoft SQL Server" width="35px" src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg"/>][mssql]
 [<img align="left" alt="HTML5" width="35px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>][html5]
@@ -42,17 +41,16 @@
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode]
 [<img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>][linux]
 
-[c#]: https://www.w3schools.com/cs/index.php/
+[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [.net]: https://dotnet.microsoft.com/
 [docker]: https://www.docker.com/
-[sql]: https://www.w3schools.com/sql/
 [postgresql]: https://www.postgresql.org/
 [mssql]: https://www.microsoft.com/en-us/sql-server/
 [html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
-[js]: https://www.w3schools.com/js/DEFAULT.asp/
-[git]: https://www.w3schools.com/git/
-[github]: https://www.w3schools.com/whatis/whatis_github.asp/
+[js]: https://www.javascript.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
 [vs]: https://visualstudio.microsoft.com/
 [vscode]: https://code.visualstudio.com/
 [linux]: https://www.linux.org/
