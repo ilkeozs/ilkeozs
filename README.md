@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ilkeozsekerli@gmail.com**
 
-- 🌐 My Website <a href="https://ilkeozs.info">**ilkeozs.info**</a>
+- 🌐 Visit my website <a href="https://ilkeozs.info">**ilkeozs.info**</a>
 
 ### Connect with me:
 
