@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlke Özşekerli</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate back-end developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkeozs&label=Profile%20views&color=0e75b6&style=flat" alt="ilkeozs"/> </p>
 
