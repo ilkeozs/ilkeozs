@@ -30,6 +30,7 @@
 [<img align="left" alt="Docker" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>][docker]
 [<img align="left" alt="PostgreSQL" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>][postgresql]
 [<img align="left" alt="Microsoft SQL Server" width="35px" src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg"/>][mssql]
+[<img align="left" alt="MySQL" width="35px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>][mysql]
 [<img align="left" alt="HTML5" width="35px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>][html5]
 [<img align="left" alt="CSS3" width="35px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>][css3]
 [<img align="left" alt="JavaScript" width="35px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>][js]
@@ -44,6 +45,7 @@
 [docker]: https://www.docker.com/
 [postgresql]: https://www.postgresql.org/
 [mssql]: https://www.microsoft.com/en-us/sql-server/
+[mysql]: https://www.mysql.com/
 [html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
 [js]: https://www.javascript.com/
