@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkeozs&label=Profile%20views&color=0e75b6&style=flat" alt="ilkeozs"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkeozs" alt="ilkeozs"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=ilkeozs" alt="ilkeozs"/></a> </p>
 
 - 🌱 I’m currently learning **.Net Core**
 
@@ -33,10 +33,10 @@
 [<img align="left" alt="MySQL" width="35px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>][mysql]
 [<img align="left" alt="HTML5" width="35px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>][html5]
 [<img align="left" alt="CSS3" width="35px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>][css3]
-[<img align="left" alt="JavaScript" width="35px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>][js]
+[<img align="left" alt="JavaScript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>][js]
 [<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"/>][git]
 [<img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/favicons/favicon-dark.svg"/>][github]
-[<img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png"/>][vs]
+[<img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>][vs]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode]
 [<img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>][linux]
 
